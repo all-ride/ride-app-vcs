@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "interfaces": "ride\\library\\vcs\\git\\GitLogParser",
+            "class": "ride\\library\\vcs\\git\\GenericGitLogParser",
+            "id": "generic"
+        }
+    ]
+}
