@@ -4,6 +4,11 @@
             "interfaces": "ride\\library\\vcs\\git\\GitLogParser",
             "class": "ride\\library\\vcs\\git\\GenericGitLogParser",
             "id": "generic"
+        },
+        {
+            "interfaces": "ride\\library\\vcs\\Repository",
+            "class": "ride\\library\\vcs\\git\\GitRepository",
+            "id": "git"
         }
     ]
 }
