@@ -2,7 +2,6 @@
     "name": "ride/app-vcs",
     "description": "Integration of the version control library for a Ride application.",
     "license": "MIT",
-    "version": "0.1.2",
     "authors": [
         {
             "name": "Joris Vandeweerd",
@@ -10,6 +9,7 @@
         }
     ],
     "require": {
-        "ride/lib-vcs": ">=0.1.1"
+        "ride/app": "^1.0.0",
+        "ride/lib-vcs": "^1.0.0"
     }
 }
